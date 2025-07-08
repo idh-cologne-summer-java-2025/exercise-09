@@ -17,6 +17,7 @@ public List<Integer> timeTest(List<Integer>l) {
 	long after1 = System.currentTimeMillis();
 	long duration1 = after1 - before1;
 	System.out.println("Filling the List took " + duration1 + " miliseconds.");
+	this.listInsertion(l);
 	//add 10000 Integers at random spots
 //	long before2 = System.currentTimeMillis();
 //	//throws a java.util.ConcurrentModificationException

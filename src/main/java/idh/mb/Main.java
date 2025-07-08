@@ -23,9 +23,9 @@ public class Main {
 		lt.timeTest(TL);
 		
 //		Insert 10000 more values into the list at random indices
-		lt.listInsertion(AL);
-		lt.listInsertion(LL);
-		lt.listInsertion(TL);
+//		lt.listInsertion(AL);
+//		lt.listInsertion(LL);
+//		lt.listInsertion(TL);
 		
 	}
 
